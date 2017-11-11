@@ -27,7 +27,15 @@ public class AnimalCounterApp {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		System.out.println("");
+		System.out.println("Sheep");
 		
+		Sheep b3 = new Sheep();
+		count(b, 1);
+		System.out.println("");
+		
+		System.out.println("");
+		System.out.println("Bye Bye Black Sheep");
 
 	}
 	
